@@ -1,9 +1,9 @@
 export default function MyComponent() {
     return(
         <>
-            <h1>Hello, Class!</h1>
-            <p>Let's write some React!</p>
-            <img src="/bhack24.png" alt="hacker"></img>
+            <h1>Hello, Flo!</h1>
+            <p>North American Tour 2025!</p>
+            <img src="/flobanner.webp" alt="flo"></img>
         </>
     );
 }
